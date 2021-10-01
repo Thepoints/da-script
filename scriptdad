@@ -1,0 +1,8 @@
+4Ax V3 (v1 and v2 patched :pensive)
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Thepoints/da-script/main/HarizZainRianPro"), true))()
+
+4Ax Autofarm No stop
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Thepoints/ZainPro/main/4AXAUTOFARM"), true))()
+
+StrongMan Simulator 
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Thepoints/4AX/main/StrongLikeAlien"), true))()
